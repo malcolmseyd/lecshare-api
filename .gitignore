@@ -4,3 +4,4 @@ bin
 .serverless
 *.coverprofile
 node_modules
+.vscode
